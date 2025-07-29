@@ -4,24 +4,17 @@
 html {
   scroll-behavior: smooth;
 }
-
-:root {
-  --primary: #2ec4b6;       /* Vibrant teal */
+:root  {
+  --primary: #a4717d;         /* Dusty rose */
   --primary-foreground: #ffffff;
-  --secondary: #264653;     /* Dark teal */
-  --secondary-foreground: #f8f9fa;
-  --accent: #ff9f1c;        /* Warm coral */
-  --accent-foreground: #264653;
-  --background: #f8f9fa;    /* Light gray */
-  --background-foreground: #264653;
-  --muted: #e9ecef;         /* Lighter gray */
-  --muted-foreground: #495057;
-  --destructive: #e71d36;   /* Bright red */
-  --destructive-foreground: #ffffff;
-  --border: #ced4da;
-  --input: #dee2e6;
-  --ring: #2ec4b6;
+  --accent: #dfb9ca;          /* Blush beige */
+  --accent-foreground: #301c22;
+  --background: #1e1519;      /* Deep plum */
+  --background-foreground: #f4ede4;
+  --muted: #342329;           /* Rich mauve */
+  --muted-foreground: #b9a9a3;
 }
+
 
 
 
